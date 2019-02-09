@@ -1,0 +1,2 @@
+Prefix plugins/TTestIndependent/example/
+Plugin TTestIndependent inputfile example.csv outputfile none
