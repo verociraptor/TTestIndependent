@@ -26,4 +26,4 @@ class TTestIndependentPlugin:
 
 	def output(self, filename):
 		t, p = stats.ttest_ind(self.column1, self.column2)
-		print t, p
+		print(t, p)
